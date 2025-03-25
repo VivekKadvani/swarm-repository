@@ -8,7 +8,7 @@ pub mod swarm_registory;
 
 use swarm_registory::*;
 
-declare_id!("76ZAond8CbSaKetsiewuCNe7HzbFhZdfDetbP6dCFv6h");
+declare_id!("2E2X3oMTJyuJRsbxD5W6VoZCGzAbmc2iYHZCp95PEGH5");
 
 #[program]
 pub mod swarms {
